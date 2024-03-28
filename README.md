@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Izzedeen and I'm a Full-Stack web developer, from Palestime</h2>
+
+
+<img src="https://media.licdn.com/dms/image/D4D16AQE_t04RzQp2-g/profile-displaybackgroundimage-shrink_350_1400/0/1711645226362?e=1717027200&v=beta&t=mZStCnl_ZYsJ0Xcg6Hbh8s3Z8tMSIm0GoMT6KcfihMQ">
 
 ###
 
