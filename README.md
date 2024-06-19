@@ -1,5 +1,5 @@
 <div align="center">
-
+  <img src="https://ibb.co/7QP41Wd" alt="izzedeen_banner"/>
 </div>
 
 <h2 align="center">I'm Izzedeen, a backend web developer 👨‍💻 working full-time @ Digifly 🚀</h2>
