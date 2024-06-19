@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHdozMPnMx7IQ/profile-displaybackgroundimage-shrink_350_1400/0/1715938560351?e=1722470400&v=beta&t=YHi4C3_fvpJ2bCiYtR9tODQONMudrrqyOu26pUa6OtM" align="center" style="width: 100%" />
+
 </div>
 
 <h2 align="center">I'm Izzedeen, a backend web developer 👨‍💻 working full-time @ Digifly 🚀</h2>
