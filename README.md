@@ -1,6 +1,4 @@
-<div align="center">
-<a href="https://ibb.co/7QP41Wd"><img src="https://i.ibb.co/RNfyD0k/banner-2004.png" alt="banner-2004" border="0"></a>
-</div>
+
 <h2 align="center">I'm Izzedeen, a backend web developer 👨‍💻 working full-time @ Digifly 🚀</h2>
 
 <p align="center">
