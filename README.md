@@ -70,8 +70,8 @@
   </a>  
 </div>  
 
-## TOP used Langauges
-(https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/z4dev/github-readme-stats)
+## Top used Langaues
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/z4dev/github-readme-stats)
 
 
 <div align="center">
