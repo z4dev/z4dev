@@ -70,10 +70,9 @@
   </a>  
 </div>  
 
-## Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z4dev&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+## TOP used Langauges
+(https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/z4dev/github-readme-stats)
+
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=mpbn3thv2n4pcbsyznl0hyesq&cover_image=true&theme=default&show_off
