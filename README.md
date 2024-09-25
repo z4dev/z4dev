@@ -4,12 +4,6 @@
 
 <h2 align="center">I'm Izzedeen, a backend web developer 👨‍💻 working full-time @ Digifly 🚀</h2>
 
-<p align="center">
-  🌱 I’m currently learning NestJS and GraphQL <br>
-  ❓ Ask me about anything related to the MERN stack and related technologies <br>
-  ⚡ Fun fact:  my cat sleeps next to me  L: lmfao
-</p>
-
 ## My Skill Set
 <table align="center">
   <tr>
