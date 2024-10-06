@@ -49,7 +49,7 @@
 </td></table>  
 
 <div align="center">
-  <a href="https://linkedin.com/in/z4dev" target="_blank">
+  <a href="https://linkedin.com/in/z4dev" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>  
 </div>  
