@@ -3,10 +3,3 @@
 <h2 align="center">Hi, I'm Izzedeen 👨‍💻</h2>
 <h3 align="center">Backend Developer @ Software Pioneers 🚀 | Part-Time Freelancer @UpWork & @Freelancer</h3>
 <h4 align="center">Currently learning AI 🤖</h4>
----
-
-### 📚 Current Learning Path:
-- Artificial Intelligence (AI) 🤖
-- Machine Learning (ML)
-- Data Science
-
