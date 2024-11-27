@@ -47,25 +47,30 @@
 
 ---
 
-## 📈 GitHub Stats & More
+## 📈 GitHub Stats & Insights
+
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=z4dev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
 </div>
 
 ### Most Used Languages
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4dev&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
 </div>
 
-### Contribution Graph
+### Streak Stats
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=z4dev&theme=github&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### Wakatime Stats
+### Commits & Contributions
+
 <div align="center">
-  <img src="https://wakatime.com/badge/user/7b0586b4-e2d4-43fb-b3fb-324f7a62d2a1.svg" alt="Izzedeen's Wakatime Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=z4dev&theme=github&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
