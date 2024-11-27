@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQHxgdNhJCfeJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727013493539?e=1732752000&v=beta&t=o6X7ao2SAQ2WUSgunosSjMcq6IlRBcP9FOjH-kR9aec" />
 
 
-<h2 align="center">I'm Izzedeen, a backend web developer 👨‍💻 working full-time @ Software Pioneers 🚀 && Part Time Freelancer at @UpWork and @FreeLancer</h2>
+<h2 align="center">I'm Izzedeen, a backend web developer 👨‍💻 <u></u>working full-time @ Software Pioneers 🚀 && Part Time Freelancer at @UpWork and @FreeLancer</u> currently Learning AI </h2>
 
 ## My Skill Set
 <table align="center">
