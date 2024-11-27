@@ -58,9 +58,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4dev&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
 </div>
 
-### Spotify Listening 🎧
+### Contribution Graph
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=mpbn3thv2n4pcbsyznl0hyesq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954&bar_color_cover=true" alt="Spotify" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=z4dev&theme=github&hide_border=true" alt="Contribution Graph" />
+</div>
+
+### Wakatime Stats
+<div align="center">
+  <img src="https://wakatime.com/badge/user/7b0586b4-e2d4-43fb-b3fb-324f7a62d2a1.svg" alt="Izzedeen's Wakatime Stats" />
 </div>
 
 ---
