@@ -1,5 +1,3 @@
-<h3 align="center">Backend Developer @ Software Pioneers 🚀 | Part-Time Freelancer @UpWork & @Freelancer</h3>
-<h4 align="center">Currently learning AI 🤖</h4>
 
 <p align="center">
   <!-- Languages -->
@@ -16,3 +14,7 @@
   <img src="https://img.shields.io/badge/MongooseODM-880000?logo=mongoose&logoColor=white" alt="MongooseODM" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+
+<h3 align="center">Backend Developer @ Software Pioneers 🚀 | Part-Time Freelancer @UpWork & @Freelancer</h3>
+<h4 align="center">Currently learning AI 🤖</h4>
