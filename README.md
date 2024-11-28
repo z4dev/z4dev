@@ -1,3 +1,10 @@
-<img src = 'https://img.freepik.com/free-photo/build-your-own-body-strength-fitness-exercise-get-fit_53876-21370.jpg?t=st=1732783924~exp=1732787524~hmac=43cb28bffa2a09d3aeb9a7ca4e8f0201b59dc8b40cc97afce4369ea3a6ae553c&w=2000' >
 <h3 align="center">Backend Developer @ Software Pioneers 🚀 | Part-Time Freelancer @UpWork & @Freelancer</h3>
 <h4 align="center">Currently learning AI 🤖</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+</p>
