@@ -16,5 +16,5 @@
 </p>
 
 
-<h3 align="center">Backend Developer @ Software Pioneers 🚀 | Part-Time Freelancer @UpWork & @Freelancer</h3>
+<h3 align="center">Backend Developer @ Software Pioneers 🚀 | Part-Time Freelancer | Father of two Cats (Fino & Wilson)</h3>
 <h4 align="center">Currently learning AI 🤖 & Data science </h4>
