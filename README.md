@@ -39,7 +39,7 @@ Check out my [GitHub activity overview](https://github.com/z4dev).
 ## 🌐 Let's Connect
 - 🌍 **Location:** Gaza
 - 🕒 **Timezone:** UTC+2
-- 📧 [izzedeenDev](mailto:izzedeenDev)
+- 📧 [izzedeenDev](mailto:izzedeenalfarra123@gmail.com)
 - 📱 [LinkedIn](https://linkedin.com/in/izzedeenalfarra)
 - 🌐 [Portfolio](https://itsizzedeen.netlify.app)
 
