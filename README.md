@@ -1,6 +1,8 @@
 # ⚡ Izzedeen Alfarra
 ### >_ Mid-Level Backend Engineer | Scalable Cloud Architect
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ECF8E&width=435&lines=Top+20+JS+Engineer+Egypt;Backend+Systems+Architect;Tech+Mentor+%26+Content+Creator)](https://git.io/typing-svg)
 
 ---
@@ -24,24 +26,3 @@
 | **Infrastructure** | `AWS` `Cloudflare` `DigitalOcean` `Docker` `CI/CD` |
 | **Data & QA** | `Pandas` `NumPy` `Jest` `Selenium` |
 
----
-
-### 📊 Tactical Metrics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🛰️ Transmission Status
-- 🔭 **Current Mission:** Architecting high-concurrency microservices.
-- 🌱 **Learning Buffer:** Deep diving into Rust for performance-critical modules.
-- 💬 **Ask me about:** Scalable architecture, JS performance, and the Egyptian tech ecosystem.
-- ⚡ **Fun Fact:** I believe clean code is just poetry that actually does something.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3ECF8E&height=100&section=footer" width="100%"/>
-</p>
