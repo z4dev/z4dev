@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/17927ec6-a00f-4338-bfae-f389b690f6eb" width="500" style="border-radius: 24px; border: 1px solid #00F2FF; box-shadow: 0px 0px 25px rgba(0, 242, 255, 0.3);" />
+<img src="https://github.com/user-attachments/assets/1340cade-a76a-48c6-84bb-fe25f78cece5" width="500" style="border-radius: 24px; border: 1px solid #00F2FF; box-shadow: 0px 0px 25px rgba(0, 242, 255, 0.3);" />
 
 # 💠 IZZEDEEN ALFARRA
 ### `RANK: TOP 20 JS ENGINEER EGYPT on LinkedIn 2025` // `VERSION: 2050.R3`
