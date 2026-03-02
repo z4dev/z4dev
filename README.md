@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&section=footer&width=400" />
   <br>
-  <code>// CONNECTION_SECURE // ARCHITECT_FOUND //</code>
 </p>
 
 </div>
