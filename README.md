@@ -7,7 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=CORE_ENGINEER_ACTIVE;4K%2B+LINKEDIN+INFLUENCE;SCALABLE+CLOUD+ARCHITECT;SEO_OPTIMIZED+BY+GOOGLE)](https://git.io/typing-svg)
 
----
 
 
 ### 🧬 TECHNICAL_DNA // SYSTEM_RESOURCES
@@ -20,15 +19,7 @@
 | 💾 | **DATA_LAYER** | `PostgreSQL` • `Redis` • `MongoDB` • `Prisma` • `Sequelize` |
 | 🧪 | **VAL_SQUAD** | `Jest` • `Selenium` • `TDD` • `Pandas` • `NumPy` |
 
----
 
-### 📊 ANALYTICS_STREAM
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=z4dev&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4dev&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=FFFFFF" />
-</p>
-
----
 
 ### 🔗 EXTERNAL_UPLINKS
 <p align="center">
