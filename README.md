@@ -1,22 +1,40 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17927ec6-a00f-4338-bfae-f389b690f6eb" width="100%" alt="Izzedeen Banner" />
+</p>
 
+<div align="center">
 
-![unnamed (1)](https://github.com/user-attachments/assets/17927ec6-a00f-4338-bfae-f389b690f6eb)
+# 🗠 SYSTEM_OPERATOR: IZZEDEEN ALFARRA
+### `Mid-Level Backend Architect // Egypt Top 20 JS`
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ECF8E&width=435&lines=Top+20+JS+Engineer+Egypt;Backend+Systems+Architect;Tech+Mentor+%26+Content+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=NODEJS+|+NESTJS+|+TYPESCRIPT;SCALABLE+CLOUD+INFRASTRUCTURE;POSTGRESQL+|+REDIS+|+MONGODB;AWS+|+CLOUDFLARE+|+DOCKER)](https://git.io/typing-svg)
 
 ---
-### 🧬 Technical DNA
 
-| Category | Stack Allocation |
-| :--- | :--- |
-| **Runtime & Core** | `Node.js` `TypeScript` `JavaScript` `PHP` `C++` |
-| **Frameworks** | `NestJS` `Express.js` `Fastify` |
-| **Persistence** | `PostgreSQL` `MongoDB` `Redis` `MySQL` `Prisma` `Sequelize` |
-| **Infrastructure** | `AWS` `Cloudflare` `DigitalOcean` `Docker` `CI/CD` |
-| **Data & QA** | `Pandas` `NumPy` `Jest` `Selenium` |
-<p align="left">
-<a href="https://linkedin.com/in/z4dev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/z4dev" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://youtube.com/@EzzAldeenDev" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
+### 🌐 NEURAL LINK (SOCIALS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/z4dev) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/z4dev) [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EzzAldeenDev)
+
+</div>
+
+---
+
+### 🧬 TECHNICAL_DNA.exe
+```yml
+Core_Runtime:
+  - Runtime: [Node.js, TypeScript, JavaScript]
+  - Logic: [PHP, C++, Python]
+  - Status: "Optimized"
+
+Architectural_Frameworks:
+  - Core: [NestJS, Express.js, Fastify]
+  - Database: [PostgreSQL, MongoDB, Redis, MySQL]
+  - ORM_Layer: [Prisma, Sequelize]
+
+Cloud_Infraspace:
+  - Provider: [AWS, Cloudflare, DigitalOcean]
+  - DevOps: [Docker, CI/CD, GitHub Actions]
+  - Edge: [Netlify, Render, Vercel]
+
+Analysis_QA:
+  - Data: [Pandas, NumPy, Matplotlib]
+  - Test: [Jest, Selenium]
