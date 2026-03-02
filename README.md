@@ -9,40 +9,38 @@
 
 ---
 
+
+### 🧬 TECHNICAL_DNA // SYSTEM_RESOURCES
+
+|  | [ PROTOCOL ] | [ DEPLOYED_STACK ] |
+| :--- | :--- | :--- |
+| ⚡ | **RUNTIME_CORE** | `Node.js` • `TypeScript` • `JavaScript` • `PHP` • `C++` |
+| ☁️ | **INFRA_GRID** | `AWS` • `Cloudflare` • `DigitalOcean` • `Docker` • `CI/CD` |
+| 🏛️ | **ARCH_LOGIC** | `Microservices` • `Serverless` • `gRPC` • `REST` • `GraphQL` |
+| 💾 | **DATA_LAYER** | `PostgreSQL` • `Redis` • `MongoDB` • `Prisma` • `Sequelize` |
+| 🧪 | **VAL_SQUAD** | `Jest` • `Selenium` • `TDD` • `Pandas` • `NumPy` |
+
+---
+
+### 📊 ANALYTICS_STREAM
 <p align="center">
-  <a href="https://www.google.com/search?q=Izzedeen+Alfarra">
-    <img src="https://img.shields.io/badge/🔍_GOOGLE_INDEX-VERIFIED-white?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/z4dev">
-    <img src="https://img.shields.io/badge/🌐_NEURAL_LINK-4K+_NODES-0077B5?style=for-the-badge" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=z4dev&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4dev&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=FFFFFF" />
 </p>
 
 ---
 
-### 🧬 TECHNICAL_DNA.yml
-```yaml
-# INITIALIZING_SYSTEM_SKILLS... [DONE]
-───────────────────────────────────────
-runtime_core:
-  - node_js:  [v22.x, 2050_optimized]
-  - logic:    [TypeScript, JavaScript, PHP, C++]
-  - status:   "high_performance"
+### 🔗 EXTERNAL_UPLINKS
+<p align="center">
+<a href="https://youtube.com/@EzzAldeenDev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://instagram.com/z4dev"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/z4dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-infrastructure_grid:
-  - cloud:    [AWS, Cloudflare, DigitalOcean]
-  - devops:   [Docker, Kubernetes, CI_CD]
-  - edge:     "distributed_mesh"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&section=footer&width=400" />
+  <br>
+  <code>// CONNECTION_SECURE // ARCHITECT_FOUND //</code>
+</p>
 
-architectures:
-  - patterns: [Microservices, Serverless, gRPC]
-  - api:      [REST, GraphQL, WebSockets]
-
-persistence_layer:
-  - sql:      [PostgreSQL, MySQL]
-  - nosql:    [Redis, MongoDB]
-  - orm:      [Prisma, Sequelize]
-
-qa_validation:
-  - automated: [Jest, Selenium, TDD]
-───────────────────────────────────────
+</div>
