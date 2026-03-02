@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/17927ec6-a00f-4338-bfae-f389b690f6eb" width="500" height="auto" alt="Izzedeen Banner" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/17927ec6-a00f-4338-bfae-f389b690f6eb" width="550" height="auto" alt="Izzedeen Banner" style="border-radius: 20px;" />
 </div>
 
 <div align="center">
@@ -11,8 +11,14 @@
 
 ---
 
-### 🌐 NEURAL LINK (SOCIALS)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/z4dev) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/z4dev) [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EzzAldeenDev)
+### 📡 GLOBAL_INDEX & CONNECTIVITY
+<p align="center">
+<a href="https://www.google.com/search?q=Izzedeen+Alfarra" target="blank"><img src="https://img.shields.io/badge/GOOGLE_ME-SEARCH_INDEX-white?style=for-the-badge&logo=google&logoColor=4285F4" /></a>
+<a href="https://linkedin.com/in/z4dev" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-4K+_INFLUENCE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br>
+<a href="https://instagram.com/z4dev" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://youtube.com/@EzzAldeenDev" target="blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 </div>
 
