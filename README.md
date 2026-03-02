@@ -15,7 +15,7 @@
 | :--- | :--- | :--- |
 | ⚡ | **RUNTIME_CORE** | `Node.js` • `TypeScript` • `JavaScript` • `PHP` • `C++` |
 | ☁️ | **INFRA_GRID** | `AWS` • `Cloudflare` • `DigitalOcean` • `Docker` • `CI/CD` |
-| 🏛️ | **ARCH_LOGIC** | `Microservices` • `Serverless` • `gRPC` • `REST` • `GraphQL` |
+| 🏛️ | **ARCH_LOGIC** |   `Serverless`  • `REST` • `GraphQL` |
 | 💾 | **DATA_LAYER** | `PostgreSQL` • `Redis` • `MongoDB` • `Prisma` • `Sequelize` |
 | 🧪 | **VAL_SQUAD** | `Jest` • `Selenium` • `TDD` • `Pandas` • `NumPy` |
 
