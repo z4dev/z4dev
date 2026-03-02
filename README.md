@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/17927ec6-a00f-4338-bfae-f389b690f6eb" width="100%" alt="Izzedeen Banner" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/17927ec6-a00f-4338-bfae-f389b690f6eb" width="500" height="auto" alt="Izzedeen Banner" style="border-radius: 10px;" />
+</div>
 
 <div align="center">
 
