@@ -1,0 +1,238 @@
+```yaml
+name: Update GitHub Language Stats
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate Top Languages SVG
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import requests
+          from collections import defaultdict
+          from pathlib import Path
+          from xml.sax.saxutils import escape
+
+          USERNAME = "z4dev"
+          TOKEN = os.environ["STATS_TOKEN"]
+
+          HEADERS = {
+              "Authorization": f"Bearer {TOKEN}",
+              "Accept": "application/vnd.github+json",
+              "X-GitHub-Api-Version": "2022-11-28",
+          }
+
+          API = "https://api.github.com"
+
+          def get(url, params=None):
+              response = requests.get(
+                  url,
+                  headers=HEADERS,
+                  params=params,
+                  timeout=30,
+              )
+              response.raise_for_status()
+              return response.json()
+
+          print("Getting repositories...")
+
+          repositories = []
+          page = 1
+
+          while True:
+              data = get(
+                  f"{API}/user/repos",
+                  {
+                      "visibility": "all",
+                      "affiliation": "owner,collaborator,organization_member",
+                      "per_page": 100,
+                      "page": page,
+                  },
+              )
+
+              if not data:
+                  break
+
+              repositories.extend(data)
+
+              if len(data) < 100:
+                  break
+
+              page += 1
+
+          print(f"Found {len(repositories)} repositories")
+
+          # Ignore forks
+          repositories = [
+              repo for repo in repositories
+              if not repo.get("fork", False)
+          ]
+
+          language_bytes = defaultdict(int)
+
+          print("Collecting language statistics...")
+
+          for repo in repositories:
+              full_name = repo["full_name"]
+
+              try:
+                  languages = get(
+                      f"{API}/repos/{full_name}/languages"
+                  )
+
+                  for language, byte_count in languages.items():
+                      language_bytes[language] += byte_count
+
+                  print(f"✓ {full_name}")
+
+              except Exception as error:
+                  print(f"Skipping {full_name}: {error}")
+
+          total_bytes = sum(language_bytes.values())
+
+          if total_bytes == 0:
+              raise RuntimeError("No language statistics found.")
+
+          languages = sorted(
+              language_bytes.items(),
+              key=lambda x: x[1],
+              reverse=True,
+          )
+
+          # Keep top 10 languages
+          languages = languages[:10]
+
+          # --------------------------------------------------
+          # Generate SVG
+          # --------------------------------------------------
+
+          WIDTH = 495
+          ROW_HEIGHT = 36
+          HEADER_HEIGHT = 75
+          PADDING = 25
+          HEIGHT = HEADER_HEIGHT + (len(languages) * ROW_HEIGHT) + 20
+
+          svg = f'''<svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="{WIDTH}"
+            height="{HEIGHT}"
+            viewBox="0 0 {WIDTH} {HEIGHT}">
+
+            <rect
+              width="100%"
+              height="100%"
+              rx="10"
+              fill="#0d1117"
+              stroke="#30363d"/>
+
+            <text
+              x="{PADDING}"
+              y="38"
+              fill="#f0f6fc"
+              font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+              font-size="18"
+              font-weight="600">
+              Most Used Languages
+            </text>
+          '''
+
+          max_bar_width = WIDTH - 190
+
+          for index, (language, byte_count) in enumerate(languages):
+              percentage = (byte_count / total_bytes) * 100
+
+              y = HEADER_HEIGHT + (index * ROW_HEIGHT)
+
+              bar_width = max(
+                  4,
+                  int(max_bar_width * percentage / 100)
+              )
+
+              language_name = escape(language)
+
+              svg += f'''
+              <text
+                x="{PADDING}"
+                y="{y}"
+                fill="#c9d1d9"
+                font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+                font-size="13">
+                {language_name}
+              </text>
+
+              <rect
+                x="125"
+                y="{y - 11}"
+                width="{max_bar_width}"
+                height="8"
+                rx="4"
+                fill="#21262d"/>
+
+              <rect
+                x="125"
+                y="{y - 11}"
+                width="{bar_width}"
+                height="8"
+                rx="4"
+                fill="#58a6ff"/>
+
+              <text
+                x="{WIDTH - PADDING}"
+                y="{y}"
+                text-anchor="end"
+                fill="#8b949e"
+                font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+                font-size="13">
+                {percentage:.1f}%
+              </text>
+              '''
+
+          svg += "</svg>"
+
+          Path("profile").mkdir(exist_ok=True)
+
+          Path("profile/top-langs.svg").write_text(
+              svg,
+              encoding="utf-8"
+          )
+
+          print("Generated profile/top-langs.svg")
+          print()
+          print("Top languages:")
+
+          for language, byte_count in languages:
+              percentage = (byte_count / total_bytes) * 100
+              print(f"{language}: {percentage:.2f}%")
+
+          PY
+
+      - name: Commit updated statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update language statistics"
+            git push
+          fi
+```
