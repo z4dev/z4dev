@@ -1,4 +1,3 @@
-```yaml
 name: Update GitHub Language Stats
 
 on:
@@ -235,4 +234,3 @@ jobs:
             git commit -m "chore: update language statistics"
             git push
           fi
-```
