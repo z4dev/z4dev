@@ -1,0 +1,373 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="495"
+  height="455"
+  viewBox="0 0 495 455">
+
+  <rect
+    width="100%"
+    height="100%"
+    rx="10"
+    fill="#0d1117"
+    stroke="#30363d"/>
+
+  <text
+    x="25"
+    y="38"
+    fill="#f0f6fc"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="18"
+    font-weight="600">
+    Most Used Languages
+  </text>
+
+    <text
+      x="25"
+      y="75"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      Python
+    </text>
+
+    <rect
+      x="125"
+      y="64"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="64"
+      width="227"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="75"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      74.7%
+    </text>
+    
+    <text
+      x="25"
+      y="111"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      HTML
+    </text>
+
+    <rect
+      x="125"
+      y="100"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="100"
+      width="18"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="111"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      6.2%
+    </text>
+    
+    <text
+      x="25"
+      y="147"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      JavaScript
+    </text>
+
+    <rect
+      x="125"
+      y="136"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="136"
+      width="18"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="147"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      5.9%
+    </text>
+    
+    <text
+      x="25"
+      y="183"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      TypeScript
+    </text>
+
+    <rect
+      x="125"
+      y="172"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="172"
+      width="14"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="183"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      4.6%
+    </text>
+    
+    <text
+      x="25"
+      y="219"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      PHP
+    </text>
+
+    <rect
+      x="125"
+      y="208"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="208"
+      width="7"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="219"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      2.5%
+    </text>
+    
+    <text
+      x="25"
+      y="255"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      CSS
+    </text>
+
+    <rect
+      x="125"
+      y="244"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="244"
+      width="6"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="255"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      2.2%
+    </text>
+    
+    <text
+      x="25"
+      y="291"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      Cython
+    </text>
+
+    <rect
+      x="125"
+      y="280"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="280"
+      width="5"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="291"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      1.8%
+    </text>
+    
+    <text
+      x="25"
+      y="327"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      SCSS
+    </text>
+
+    <rect
+      x="125"
+      y="316"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="316"
+      width="4"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="327"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      0.8%
+    </text>
+    
+    <text
+      x="25"
+      y="363"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      C
+    </text>
+
+    <rect
+      x="125"
+      y="352"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="352"
+      width="4"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="363"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      0.7%
+    </text>
+    
+    <text
+      x="25"
+      y="399"
+      fill="#c9d1d9"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      Less
+    </text>
+
+    <rect
+      x="125"
+      y="388"
+      width="305"
+      height="8"
+      rx="4"
+      fill="#21262d"/>
+
+    <rect
+      x="125"
+      y="388"
+      width="4"
+      height="8"
+      rx="4"
+      fill="#58a6ff"/>
+
+    <text
+      x="470"
+      y="399"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13">
+      0.2%
+    </text>
+    </svg>
