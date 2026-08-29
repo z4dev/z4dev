@@ -1,5 +1,3 @@
-## 🏥 HealthTech
-
 Working on healthcare interoperability and intelligent healthcare systems using:
 
 **HL7 · FHIR · E-Claims · Clinical Data · Medical Code Validation · AI**
@@ -7,14 +5,10 @@ Working on healthcare interoperability and intelligent healthcare systems using:
 Currently building healthcare solutions connecting **hospitals, clinics, laboratories, and insurance providers** across the MENA region.
 
 ---
-
-## ⚡ Engineering
-
 **Backend** — Node.js · TypeScript · NestJS · REST APIs
 **AI** — LLMs · RAG · AI Agents · Vector Databases
 **Data** — PostgreSQL · MongoDB · Redis
 **Cloud** — Docker · AWS · CI/CD
-
 ---
 
 ## 📊 GitHub
