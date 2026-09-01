@@ -41,7 +41,7 @@
     <rect
       x="125"
       y="64"
-      width="228"
+      width="226"
       height="8"
       rx="4"
       fill="#58a6ff"/>
@@ -53,7 +53,7 @@
       fill="#8b949e"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      74.8%
+      74.2%
     </text>
     
     <text
@@ -146,7 +146,7 @@
     <rect
       x="125"
       y="172"
-      width="14"
+      width="16"
       height="8"
       rx="4"
       fill="#58a6ff"/>
@@ -158,7 +158,7 @@
       fill="#8b949e"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      4.6%
+      5.4%
     </text>
     
     <text
@@ -263,7 +263,7 @@
       fill="#8b949e"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      1.8%
+      1.7%
     </text>
     
     <text
