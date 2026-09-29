@@ -41,7 +41,7 @@
     <rect
       x="125"
       y="64"
-      width="225"
+      width="224"
       height="8"
       rx="4"
       fill="#58a6ff"/>
@@ -53,7 +53,7 @@
       fill="#8b949e"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      73.9%
+      73.8%
     </text>
     
     <text
@@ -97,7 +97,7 @@
       fill="#c9d1d9"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      JavaScript
+      TypeScript
     </text>
 
     <rect
@@ -111,7 +111,7 @@
     <rect
       x="125"
       y="136"
-      width="17"
+      width="18"
       height="8"
       rx="4"
       fill="#58a6ff"/>
@@ -123,7 +123,7 @@
       fill="#8b949e"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      5.9%
+      6.0%
     </text>
     
     <text
@@ -132,7 +132,7 @@
       fill="#c9d1d9"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      TypeScript
+      JavaScript
     </text>
 
     <rect
@@ -158,7 +158,7 @@
       fill="#8b949e"
       font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
       font-size="13">
-      5.8%
+      5.9%
     </text>
     
     <text
