@@ -42,8 +42,7 @@
 ### `$ git log --stats`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=z4dev&theme=tokyonight&hide_border=true&background=0d1117&ring=b69cff&fire=b69cff&currStreakLabel=3fb6d8" alt="GitHub streak for z4dev" height="165">
-  <img src="./profile/top-langs.svg" alt="Top languages for z4dev" height="165">
+  <img src="https://streak-stats.demolab.com?user=z4dev&theme=tokyonight&hide_border=true&background=0d1117&ring=b69cff&fire=b69cff&currStreakLabel=3fb6d8" alt="GitHub streak for z4dev">
 </p>
 
 <p align="center"><sub>Izzedeen Alfarra | z4dev</sub></p>
