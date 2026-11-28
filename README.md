@@ -33,10 +33,10 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [e-commerce-api](https://github.com/z4dev/e-commerce-api) | E-commerce REST API | Node.js · Express |
-| [NestJS-TypeORM](https://github.com/z4dev/NestJS-TypeORM) | NestJS service with TypeORM and MySQL | NestJS · TypeORM |
-| [MERN-WithGraphQL--chat-app-](https://github.com/z4dev/MERN-WithGraphQL--chat-app-) | Real-time chat app with a GraphQL API | React · Apollo · GraphQL |
+| [NestJS-TypeORM](https://github.com/z4dev/NestJS-TypeORM) | NestJS REST API using TypeORM with MySQL | NestJS · TypeORM |
 | [url-shortner-service](https://github.com/z4dev/url-shortner-service) | URL shortener service | Node.js |
-| [img-converter](https://github.com/z4dev/img-converter) | AI image converter into many shapes | TypeScript · AI |
+| [img-converter](https://github.com/z4dev/img-converter) | AI image editor that converts images into many shapes | TypeScript · React · AI |
+| [graduation-project-api](https://github.com/z4dev/graduation-project-api) | Najat APP: backend for humanitarian aid, hospital tracking and danger-zone reporting | NestJS · PostGIS · Docker |
 | [senior-backend-engineer](https://github.com/z4dev/senior-backend-engineer) | 18–24 month roadmap from junior to senior backend | Roadmap |
 
 ### `$ git log --stats`
